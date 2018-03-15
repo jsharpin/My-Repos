@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\JSharpHalpin\Documents\Atmel Studio\7.0\DA2P5A\DA2P5A\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\JSharpHalpin\Documents\Atmel Studio\7.0\DA2P5A\DA2P5A\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\JSharpHalpin\Documents\Atmel Studio\7.0\DA2P5A\DA2P5A\Debug\DA2P5A.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2P5A.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2P5A.map</FILE>
+  <FILE>DA2P5A.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\JSharpHalpin\Documents\Atmel Studio\7.0\DA2P5A\DA2P5A\main.asm</FILE><LINE>14</LINE></MAIN>
+  <EX0_ISR><FILE>C:\Users\JSharpHalpin\Documents\Atmel Studio\7.0\DA2P5A\DA2P5A\main.asm</FILE><LINE>27</LINE></EX0_ISR>
+  <HERE><FILE>C:\Users\JSharpHalpin\Documents\Atmel Studio\7.0\DA2P5A\DA2P5A\main.asm</FILE><LINE>24</LINE></HERE>
+  <LOOP><FILE>C:\Users\JSharpHalpin\Documents\Atmel Studio\7.0\DA2P5A\DA2P5A\main.asm</FILE><LINE>33</LINE></LOOP>
+ </LABELS>
+</ASSEMBLER_INFO>
